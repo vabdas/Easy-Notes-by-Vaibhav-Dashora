@@ -1,4 +1,4 @@
 # Easy-Notes-by-Vaibhav-Dashora
 Take Quick Notes
 
-We can add, update, delete various notes through easynotes.
+We can Create, Read, Update and Delete various notes through easynotes.

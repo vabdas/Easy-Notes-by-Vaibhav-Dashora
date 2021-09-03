@@ -1,0 +1,17 @@
+{
+    "extends": ["airbnb-base"],
+    
+    "plugins": ["sonarjs"],
+    "rules": {
+      "no-console": "off",
+      "no-plusplus": "off",
+      "no-underscore-dangle": "off",
+      "no-param-reassign": "off",
+      "new-cap": "off",
+      "comma-dangle": "off",
+      "camelcase": "off",
+      "max-len": "off"
+      
+    }
+    
+  }

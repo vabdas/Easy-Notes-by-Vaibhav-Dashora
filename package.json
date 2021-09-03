@@ -1,0 +1,29 @@
+{
+  "name": "easy-notes",
+  "version": "1.0.0",
+  "description": "Take Notes Quickly",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "eslint": "^7.23.0",
+  "eslint-config-airbnb-base": "^14.2.1",
+  "eslint-plugin-import": "^2.22.1",
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB"
+  ],
+  "author": "Vaibhav",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eslint-plugin-sonarjs": "^0.9.1",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
